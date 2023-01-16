@@ -1075,13 +1075,13 @@ section {
 #footer {
   padding: 15px;
   color: #f4f6fd;
-  font-size: 14px;
+  font-size: 12px;
   position: fixed;
   left: 0;
   bottom: 0;
-  width: 300px;
+  width: 170px;
   z-index: 9999;
-  background: #040b14;
+  background: rgb(0 0 0 / 0%);
 }
 
 #footer .copyright {
