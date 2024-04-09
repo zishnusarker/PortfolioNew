@@ -1069,7 +1069,7 @@ section {
   }
 }
 
-/*--------------------------------------------------------------
+/* -------------------------------------------------------------- 
 # Footer
 --------------------------------------------------------------*/
 /* #footer {
@@ -1109,9 +1109,9 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("assets/img/bg3.jpg") top center no-repeat;
+  background: url("assets\img\hero-bg.jpg") top center no-repeat;
   background-size: cover;
-  color: #fff;
+  color: #ffffff;
   font-size: 14px;
   text-align: center;
   padding: 80px 0;
