@@ -1,7 +1,7 @@
 <h1 align="center"> Personal Portfolio Website (v1)</h1>
 
 <p align="center">
-  <strong>A responsive single-page personal portfolio website built with HTML, CSS, JavaScript, and Bootstrap — showcasing skills, projects, resume, and contact information with smooth animations and interactive elements.</strong>
+  <strong>A responsive single-page personal portfolio website built with HTML, CSS, JavaScript, and Bootstrap - showcasing skills, projects, resume, and contact information with smooth animations and interactive elements.</strong>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ## 📖 Overview
 
-A **responsive single-page personal portfolio website** built with HTML5, CSS3, JavaScript, and Bootstrap. This site served as my personal portfolio and showcases a full range of frontend development skills — responsive layouts, scroll animations, interactive galleries, typing effects, animated counters, and a working PHP-based contact form.
+A **responsive single-page personal portfolio website** built with HTML5, CSS3, JavaScript, and Bootstrap. This site served as my personal portfolio and showcases a full range of frontend development skills - responsive layouts, scroll animations, interactive galleries, typing effects, animated counters, and a working PHP-based contact form.
 
 > 📌 **Note:** This is my **previous portfolio** (v1). While I've since built a newer version, I'm keeping this live as a frontend project to demonstrate the skills and techniques I used to build it.
 
@@ -35,21 +35,21 @@ A **responsive single-page personal portfolio website** built with HTML5, CSS3, 
 ## ✨ Features
 
 ### 🎨 UI / UX
-- **Fully responsive design** — mobile, tablet, and desktop layouts
-- **Smooth scroll animations** (AOS library) — sections animate into view
-- **Typed text effect** — dynamic role display ("Machine Learning Enthusiast, Cyber Security Enthusiast, Developer...")
-- **Animated counters** (PureCounter) — showcase stats with smooth count-up animation
-- **Image gallery with lightbox** (GLightbox) — portfolio items open in elegant overlays
-- **Portfolio filtering** (Isotope) — filter projects by category
-- **Image sliders** (Swiper) — for testimonials and portfolio showcase
-- **Custom mobile navigation** — hamburger menu with smooth transitions
+- **Fully responsive design** - mobile, tablet, and desktop layouts
+- **Smooth scroll animations** (AOS library) - sections animate into view
+- **Typed text effect** - dynamic role display ("Machine Learning Enthusiast, Cyber Security Enthusiast, Developer...")
+- **Animated counters** (PureCounter) - showcase stats with smooth count-up animation
+- **Image gallery with lightbox** (GLightbox) - portfolio items open in elegant overlays
+- **Portfolio filtering** (Isotope) - filter projects by category
+- **Image sliders** (Swiper) - for testimonials and portfolio showcase
+- **Custom mobile navigation** - hamburger menu with smooth transitions
 
 ### ⚙️ Functionality
-- **Working contact form** — PHP backend for email submission
-- **Scroll-to-top button** — quick navigation on long scrolls
-- **Sticky header** — persistent navigation as you scroll
-- **Section-based navigation** — jump to specific sections via menu
-- **External social links** — Facebook, Instagram integration
+- **Working contact form** - PHP backend for email submission
+- **Scroll-to-top button** - quick navigation on long scrolls
+- **Sticky header** - persistent navigation as you scroll
+- **Section-based navigation** - jump to specific sections via menu
+- **External social links** - Facebook, Instagram integration
 
 ---
 
@@ -195,25 +195,25 @@ PortfolioNew/
 
 Building this portfolio demonstrated proficiency in:
 
-- ✅ **HTML5 semantic markup** — proper use of `<section>`, `<nav>`, `<header>`, `<footer>`
-- ✅ **CSS3 styling** — custom properties, flexbox, grid, media queries
-- ✅ **SCSS preprocessing** — variables, nesting, modular styles
-- ✅ **Responsive design** — mobile-first approach, breakpoints, fluid layouts
-- ✅ **JavaScript DOM manipulation** — event listeners, scroll effects
-- ✅ **Third-party library integration** — managing 11+ vendor libraries
-- ✅ **Animation & interaction design** — AOS, Typed.js, PureCounter
-- ✅ **Form handling** — PHP backend, client-side validation
-- ✅ **Cross-browser compatibility** — tested across Chrome, Firefox, Edge, Safari
-- ✅ **Performance optimization** — minified assets, lazy loading
-- ✅ **Deployment workflow** — FTP uploads, PHP host configuration
+- ✅ **HTML5 semantic markup** - proper use of `<section>`, `<nav>`, `<header>`, `<footer>`
+- ✅ **CSS3 styling** - custom properties, flexbox, grid, media queries
+- ✅ **SCSS preprocessing** - variables, nesting, modular styles
+- ✅ **Responsive design** - mobile-first approach, breakpoints, fluid layouts
+- ✅ **JavaScript DOM manipulation** - event listeners, scroll effects
+- ✅ **Third-party library integration** - managing 11+ vendor libraries
+- ✅ **Animation & interaction design** - AOS, Typed.js, PureCounter
+- ✅ **Form handling** - PHP backend, client-side validation
+- ✅ **Cross-browser compatibility** - tested across Chrome, Firefox, Edge, Safari
+- ✅ **Performance optimization** - minified assets, lazy loading
+- ✅ **Deployment workflow** - FTP uploads, PHP host configuration
 
 ---
 
 ## 🔄 Evolution
 
-This is **Portfolio v1** — the previous iteration of my personal portfolio. The current version lives in a separate repository:
+This is **Portfolio v1** - the previous iteration of my personal portfolio. The current version lives in a separate repository:
 
-- 📁 [**Portfolio** (Current)](https://github.com/zishnusarker/Portfolio) — My latest portfolio
+- 📁 [**Portfolio** (Current)](https://github.com/zishnusarker/Portfolio) - My latest portfolio
 
 This repository is preserved as a **frontend project demonstration** rather than a live portfolio. It captures the techniques and libraries I was using at the time, and serves as a reference for responsive design and multi-library integration.
 
